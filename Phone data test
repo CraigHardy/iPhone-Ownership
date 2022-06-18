@@ -1,1 +1,3 @@
-iPhone 11, 700, 800, 350
+[{"first_name": "John", "last_name": "Appleseed", "age": 9},
+{"first_name": "Kate", "last_name": "Bell", "age": 10},
+{"first_name": "Anna", "last_name": "Haro", "age": 11}]
