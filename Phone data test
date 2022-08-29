@@ -8,6 +8,7 @@
 "iPhone 8":{"Verizon":220,"AT&T":350,"T-Mobile":170},
 "iPhone 8+":{"Verizon":220,"AT&T":350,"T-Mobile":200},
 "iPhone X":{"Verizon":440,"AT&T":700,"T-Mobile":205},
+"iPhone XR":{"Verizon":440,"AT&T":700,"T-Mobile":220},
 "iPhone XS":{"Verizon":440,"AT&T":700,"T-Mobile":225},
 "iPhone XS Max":{"Verizon":440,"AT&T":700,"T-Mobile":275},
 "iPhone 11":{"Verizon":440,"AT&T":700,"T-Mobile":290},
@@ -22,5 +23,4 @@
 "iPhone 13 Pro":{"Verizon":440,"AT&T":700,"T-Mobile":710},
 "iPhone 13 Pro Max":{"Verizon":440,"AT&T":700,"T-Mobile":800},
 "iPhone SE (2nd Gen)":{"Verizon":220,"AT&T":350,"T-Mobile":195},
-"iPhone SE (3rd Gen)":{"Verizon":440,"AT&T":0,"T-Mobile":285},
-"iPhone XR":{"Verizon":440,"AT&T":700,"T-Mobile":220}}
+"iPhone SE (3rd Gen)":{"Verizon":440,"AT&T":0,"T-Mobile":285}}
