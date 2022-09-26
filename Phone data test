@@ -1,8 +1,8 @@
 {
 "iPhone 6":{"Verizon":0,"AT&T":0,"T-Mobile":0},
 "iPhone 6+":{"Verizon":0,"AT&T":0,"T-Mobile":0},
-"iPhone 6S":{"Verizon":200,"AT&T":0,"T-Mobile":115},
-"iPhone 6S+":{"Verizon":200,"AT&T":0,"T-Mobile":115},
+"iPhone 6S":{"Verizon":0,"AT&T":0,"T-Mobile":115},
+"iPhone 6S+":{"Verizon":0,"AT&T":0,"T-Mobile":115},
 "iPhone 7":{"Verizon":400,"AT&T":0,"T-Mobile":120},
 "iPhone 7+":{"Verizon":400,"AT&T":0,"T-Mobile":125},
 "iPhone 8":{"Verizon":400,"AT&T":350,"T-Mobile":165},
