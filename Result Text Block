@@ -1,0 +1,7 @@
+Customer's _chosenPhone_ is worth up to $_tradeValue_ if traded in with _chosenCarrier_.
+
+Customer's repair cost is $_repairCost_.
+
+If the customer opts to purchase a new phone on their existing carrier, they will be gaining up to $_savings_ in value after repair and trade-in.
+
+Depending on current promotional details, it may be likely that no repair will be required during "damaged trade-in" promotions. Please see a mobile associate and consult the promotion guide for details on pricing and damaged trade-ins.
